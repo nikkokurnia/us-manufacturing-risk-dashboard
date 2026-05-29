@@ -73,5 +73,6 @@ Data used in this project comes from the U.S. Census Bureau Manufacturers' Shipm
 
 Source: U.S. Census Bureau M3 Survey  
 https://www.census.gov/manufacturing/m3
+
 Historical data:
 https://www.census.gov/manufacturing/m3/historical/timeseries.html
