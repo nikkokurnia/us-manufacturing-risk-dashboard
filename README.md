@@ -66,3 +66,12 @@ The risk scoring model classified manufacturing observations into Low, Medium, a
 ## Dashboard Preview
 
 This project includes an interactive Power BI dashboard saved in the `powerbi` folder and an Excel scenario model saved in the `excel_model` folder.
+
+## Data Source
+
+Data used in this project comes from the U.S. Census Bureau Manufacturers' Shipments, Inventories, and Orders (M3) Survey, including historical time-series data for new orders, shipments, inventories, and unfilled orders.
+
+Source: U.S. Census Bureau M3 Survey  
+https://www.census.gov/manufacturing/m3
+Historical data:
+https://www.census.gov/manufacturing/m3/historical/timeseries.html
